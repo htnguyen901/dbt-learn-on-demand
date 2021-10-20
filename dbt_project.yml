@@ -37,4 +37,4 @@ models:
     staging:
         +materialized: view
   snowflake_spend:
-    enabled: true
+    +enabled: true
